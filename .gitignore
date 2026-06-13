@@ -21,3 +21,4 @@ resumes/*.docx
 
 # OS
 .DS_Store
+*.pdf
